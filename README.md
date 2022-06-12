@@ -7,5 +7,9 @@ Dự án đang trong quá trình hoàn tất (65%)
     o Một giấy xác nhận thực tập,
     o Một dự án làm đồ án tốt nghiệp.
     
-- another version: 
-    o 12/6/22 - [Spring_project-backup](https://drive.google.com/drive/folders/12KdhW96rfFN6aiAd-EVX4Mb_fj2GJxC4?usp=sharing)
+- phiên bản khác 🤣: 12/6/22 - [Spring_project-backup](https://drive.google.com/drive/folders/12KdhW96rfFN6aiAd-EVX4Mb_fj2GJxC4?usp=sharing)
+
+- Một số thông tin khác liên hệ tới mình
+- 🌍 Facebook: [Facebook/duyhoa.0202](https://www.facebook.com/duyhoa.0202)
+- 🌐 Zalo: [Zalo/duyhoa0202](http://zaloapp.com/qr/p/1ayh4ml3uq24q)
+- 📞 Tel: [(+84) 941536489](tel:(+84)941536489)
