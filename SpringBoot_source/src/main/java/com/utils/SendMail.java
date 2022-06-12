@@ -35,9 +35,8 @@ import javax.mail.internet.MimeMultipart;
  * <p>
  * <h3>pom.xml</h3>
  * <dependency>
- * 		<groupId>com.sun.mail</groupId>
- * 		<artifactId>javax.mail</artifactId>
- * 		<version>1.6.1</version>
+ * 		<groupId>org.springframework.boot</groupId>
+ * 		<artifactId>spring-boot-starter-mail</artifactId>
  * </dependency>
  * </p>
  */
@@ -64,7 +63,7 @@ public class SendMail {
 			e.printStackTrace();
 		}
 	}
-
+	
 	// Gets and sets
 	public String getSubject() {
 		return subject;
