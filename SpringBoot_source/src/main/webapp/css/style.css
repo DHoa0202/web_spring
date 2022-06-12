@@ -1,0 +1,70 @@
+@import url("root.css");
+
+/* Backgrounds */
+.bg-blue {
+    background-color: var(--cl-blue);
+}
+
+.bg-rrg-blue {
+    background: repeating-radial-gradient(var(--cl-blue), var(--cl-d-puper-blue));
+}
+
+/* Colors */
+.text-bright,
+.text-bright a {
+    color: white;
+}
+
+.input-t1{
+	padding: 0 0.5em;
+    border-radius: 25px;
+    border: 1px solid cyan;
+    text-align: end;
+}
+
+.input-t1::-webkit-file-upload-button{
+	display: none
+}
+
+.m-height {
+    max-height: 300px;
+}
+
+*::-webkit-scrollbar {
+    background: transparent;
+    border: solid .1px black;
+    border-radius: 1em;
+}
+
+*::-webkit-scrollbar-thumb {
+    background: linear-gradient(-45deg, #ff00b759, #ffe6008b);
+    border-radius: 1em;
+}
+
+*::-webkit-scrollbar {
+    height: 8px;
+}
+
+*::-webkit-scrollbar {
+    width: 10px;
+}
+
+/* Hover */
+.b-hover:hover {
+    animation: effect2 1s infinite;
+}
+
+.t-hover:hover {
+    animation: effect1 3s infinite;
+    color: yellow;
+}
+
+.b-hover a:hover {
+    color: yellow !important;
+    border-radius: 50%;
+}
+
+.cl-red{
+	color: red;
+	font-weight: bold;
+}

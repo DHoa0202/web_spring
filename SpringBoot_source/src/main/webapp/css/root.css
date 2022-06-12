@@ -1,0 +1,125 @@
+:root {
+    /* Size */
+    --s-m1: .1em;
+    --s-m15: .15em;
+    --s-m2: .2em;
+    --s-m25: .25em;
+    --s-m5: .5em;
+
+    /* Colors */
+    --cl-blue: #2ea1ff;
+    --cl-cyan: #9df2fa;
+    --cl-green: #abffa0;
+    --cl-red: #ff8686;
+    --cl-yellow: #feffad;
+    --cl-orange: #fcc191;
+    --cl-pink: #fd9bf8;
+
+    --cl-d-puper-blue: #272264;
+}
+
+.fs_0_2e {
+    font-size: 0.2em;
+}
+
+.fs_0_5e {
+    font-size: 0.5em;
+}
+
+.fs_0_8e {
+    font-size: 0.8em;
+}
+
+.fs_1_0e {
+    font-size: 1em;
+}
+
+.fs-1_2em {
+    font-size: 1.2em;
+}
+
+.fs-1_4em {
+    font-size: 1.4em;
+}
+
+.fs-1_6em {
+    font-size: 1.6em;
+}
+
+.fs-1_8em {
+    font-size: 1.8em;
+}
+
+.fs-2_0em {
+    font-size: 2em;
+}
+
+/* Text vertical */
+.text-vr {
+    writing-mode: vertical-rl;
+    text-orientation: mixed;
+}
+
+.w-fit {
+    width: fit-content !important;
+}
+
+.h-fit {
+    height: fit-content !important;
+}
+
+.text-s-y {
+    text-shadow: 0 0 5px yellow;
+}
+
+.text-s-g {
+    text-shadow: 0 0 5px #00ff1e;
+}
+
+.text-s-p {
+    text-shadow: 0 0 5px #ff00e1;
+}
+
+@keyframes effect1 {
+    0% {
+        text-shadow: 0 0 10px yellow;
+    }
+
+    25% {
+        text-shadow: 0 0 10px #00ff1e;
+    }
+
+    50% {
+        text-shadow: 0 0 10px #00c3ff;
+    }
+
+    75% {
+        text-shadow: 0 0 10px #ff00f7;
+    }
+
+    100% {
+        text-shadow: 0 0 10px #ff9900;
+    }
+}
+
+@keyframes effect2 {
+    from {
+        box-shadow: 0 0 20px var(--cl-green);
+    }
+
+    25% {
+        box-shadow: 0 0 20px var(--cl-cyan);
+    }
+
+    50% {
+        box-shadow: 0 0 20px var(--cl-pink);
+    }
+
+    75% {
+        box-shadow: 0 0 20px var(--cl-red);
+    }
+
+    to {
+        box-shadow: 0 0 20px var(--cl-yellow);
+    }
+}
