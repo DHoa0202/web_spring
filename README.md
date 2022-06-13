@@ -1,7 +1,7 @@
 # web_spring
 Dự án đang trong quá trình hoàn tất (65%)
 ===================================================================================
-- 👋 Xin chào, mình là @DHoa0202 ([DUY_HOA.CV](https://drive.google.com/file/d/19YHOLrYEot7ut83p7vH9qXR9CGo_QigI/view?usp=sharing))
+- 👋 Xin chào, mình là @DHoa0202 ([DUY_HOA.CV](https://drive.google.com/file/d/1nsUle6iZ9TM9FNELtmTKG0ISidMQNAoC/view?usp=sharing))
 - 👀 Mình đang học và làm dự án kết hợp với framework Spring cho dự án tốt nghiệp sắp tới
 - 🌱 Hiện tại mình đang học kỳ 6/7 tại cao đẳng FPT Polytechnic HCM (June,2022).
 - 🙆‍♂️ Dự kiến cuối năm mình sẽ tốt nghiệp vậy nên mình cần:
